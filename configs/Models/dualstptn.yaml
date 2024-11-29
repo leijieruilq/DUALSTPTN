@@ -1,0 +1,10 @@
+name: dualstptn
+res_layers: 3
+poly_order: 8
+period_heads: 8
+embed_period: [0,0.5,1,2,3,5,7,9]
+channels_emb_dim: 8
+move_step: 8
+adj_heads: 3
+use_dft: False
+split_point: 5
