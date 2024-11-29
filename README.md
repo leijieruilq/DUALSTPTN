@@ -5,6 +5,8 @@
 
 ### Single-process experiment: running exp.py
 
+Firstly, please unzip raw_files.zip and then start running.
+
 > >Running style
 
 
